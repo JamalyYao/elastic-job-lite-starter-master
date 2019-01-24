@@ -9,7 +9,10 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
+  <groupId>com.liuzm.paascloud</groupId>
   <artifactId>elastic-job-lite-starter</artifactId>
+  <version>1.2</version>
+  <packaging>jar</packaging>
 
   <dependencies>
     <dependency>
